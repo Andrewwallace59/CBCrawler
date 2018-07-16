@@ -24,7 +24,7 @@ public class SpiderLeg {
 	}
 	
 	public UrlRecord crawl(String url) {
-		System.out.println("Crawling: " + url);
+		//System.out.println("Crawling: " + url);
 		try {
 			Connection con = Jsoup.connect(url).userAgent(USER_AGENT);
 			Document htmlDoc = con.get();
@@ -33,13 +33,14 @@ public class SpiderLeg {
 			Elements linksFound = htmlDoc.select("a[href]");
 			
 			for(Element link : linksFound) {
-				if(link.absUrl("href").contains(target))
+				if(link.absUrl("href").contains(target)) {
 					links.add(link.absUrl("href"));
+				}
 			}
 			return record;
 		} catch(IOException ioe) {
-			System.out.println("ERROR - Problem with in out HTTP request " + ioe);
-			return null;
+			//System.out.println("ERROR - Problem with in out HTTP request " + ioe);
+			return new UrlRecord(url,"Unkown Title", 404);
 		}
 	}
 	

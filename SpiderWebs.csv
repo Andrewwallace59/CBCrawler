@@ -1,35 +1,423 @@
 Url,Title,Status Code
-https://caseblocks.com/resources,Resources | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/email/#content,Email | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/cases/,Cases | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/tasklist/#class-methods-3,Task List | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#aec6cbc2c2c1eecdcfddcbccc2c1cdc5dd,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/bucket/,Bucket | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-write-an-email-template/#content,How to Write a HTML Template | Caseblocks Documentation,200
+https://caseblocks.com/resources/selecting-an-order-management-system/,7 Tips For Selecting An Order Management System | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/team-membership/,Team Membership | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/#content,Integration | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#59313c353536193a382a3c3b35363a322a,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/e-commerce-in-the-uk-infographic/#content,E-Commerce in the UK Infographic | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case-search/#case,Case.Search | Caseblocks Documentation,200
+https://caseblocks.com/resources/create-a-custom-order-management-system/,Create a custom Order Management System | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#6b030e0707042b080a180e090704080018,Email Protection | Cloudflare,200
 https://caseblocks.com/get-in-touch/,Get in Touch | Caseblocks,200
-https://caseblocks.com/resources/,Resources | Caseblocks,200
-https://caseblocks.com/resources/meet-the-new-caseblocks/,Meet the new Caseblocks | Caseblocks,200
-https://caseblocks.com/resources/google-duplex-ai-software-builders/,Google Duplex Raised The Bar For Software Developers | Caseblocks,200
-https://caseblocks.com/resources/emergeadapt-is-now-caseblocks/,EmergeAdapt is now Caseblocks | Caseblocks,200
-https://caseblocks.com/platform/,Case Management Platform | Caseblocks,200
-https://caseblocks.com/privacy-policy/,Privacy Policy | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#8ce7edf5e0e9e5ebe4ccefedffe9eee0e3efe7ffa2efe3e1,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/integrate-to-outlook-365/,Integrate to Outlook 365 | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#1078757c7c7f5073716375727c7f737b63,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/11-things-to-consider-buying-bpm-software/,11 things to consider when buying BPM software | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/team/#team,Team | Caseblocks Documentation,200
 https://caseblocks.com/faqs/,FAQs | Caseblocks,200
-https://caseblocks.com#content,Caseblocks - Case Management System,200
-https://caseblocks.com/get-in-touch,Get in Touch | Caseblocks,200
-https://caseblocks.com/resources/adaptive-case-management-knowledge-workers/,Adaptive Case Management for Knowledge Workers | Caseblocks,200
-https://caseblocks.com/terms-and-conditions/,Terms and Conditions | Caseblocks,200
-https://caseblocks.com/get-in-touch/#content,Get in Touch | Caseblocks,200
-https://caseblocks.com/solutions/,Case Management Solutions | Caseblocks,200
-https://caseblocks.com/partners/,Partners | Caseblocks,200
-https://caseblocks.com/cdn-cgi/l/email-protection#167e737a7a795675776573747a79757d65,Email Protection | Cloudflare,200
-https://caseblocks.com/resources/adaptive-case-management-processes/,Adaptive Case Management for Complex Processes | Caseblocks,200
-https://caseblocks.com/solutions/claims-management/,Claims Management Software | Caseblocks,200
-https://caseblocks.com/about/,About Caseblocks | Caseblocks,200
-https://caseblocks.com/resources/adaptive-case-management/,Adaptive Case Management - Making the Switch | Caseblocks,200
-https://caseblocks.com/resources/adaptive-case-management-explained/,Adaptive Case Management Explained | Caseblocks,200
-https://caseblocks.com,Caseblocks - Case Management System,200
-https://caseblocks.com/partners/become-a-partner/,Become a Partner with Caseblocks | Caseblocks,200
+https://caseblocks.com/faqs/#content,FAQs | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#a1c9c4cdcdcee1c2c0d2c4c3cdcec2cad2,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/case/#users,Case | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d4bcb1b8b8bb94b7b5a7b1b6b8bbb7bfa7,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/case-management-can-help-small-businesses/,Case Management can help small businesses | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/,How To's | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#92faf7fefefdd2f1f3e1f7f0fefdf1f9e1,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b0d8d5dcdcdff0d3d1c3d5d2dcdfd3dbc3,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/bucket/#content,Bucket | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#8ce4e9e0e0e3ccefedffe9eee0e3efe7ff,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#650d0009090a250604160007090a060e16,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#0169646d6d6e4162607264636d6e626a72,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/task/#content,Task | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/cases/#content,Cases | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/case/#createcasetypecode-casetypeid-casedata,Case | Caseblocks Documentation,200
+https://caseblocks.com/solutions/claims-management/#content,Claims Management Software | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case/#teams,Case | Caseblocks Documentation,200
 https://caseblocks.com/solutions/order-management/,Order Management System | Caseblocks,200
-https://caseblocks.com/platform,Case Management Platform | Caseblocks,200
-https://caseblocks.com/careers/,Careers | Caseblocks,200
-https://caseblocks.com/resources/adaptive-case-management-knowledge-workers/#content,Adaptive Case Management for Knowledge Workers | Caseblocks,200
-https://caseblocks.com/privacy-policy/,Privacy Policy | Caseblocks,200
-https://caseblocks.com/case-studies/,Case Studies | Caseblocks,200
-https://caseblocks.com/book-a-demo/,Book a Demo | Caseblocks,200
-https://caseblocks.com/cdn-cgi/l/email-protection#f9919c959596b99a988a9c9b95969a928a,Email Protection | Cloudflare,200
-https://caseblocks.com/resources/microservices-caseblocks/,MicroServices for Agile Businesses by Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-import-or-export-a-caseblocks-configuration/#content,How to move configuration | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#3b535e5757547b585a485e595754585048,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/software-development-evolving-nature/#content,The Evolving Nature of Software Development | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/user/#public-methods-1,User | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-run-a-custom-script-from-a-case-event/#content,How to run a custom script | Caseblocks Documentation,200
+https://caseblocks.com/partners/,Partners | Caseblocks,200
+https://caseblocks.com/,Caseblocks - Case Management System,200
+https://caseblocks.com/terms-and-conditions/,Terms and Conditions | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/task/#task,Task | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/task/#gettaskid,Task | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#78101d141417381b190b1d1a14171b130b,Email Protection | Cloudflare,200
+https://caseblocks.com/get-in-touch/#content,Get in Touch | Caseblocks,200
+https://documentation.caseblocks.com/javascript-api/#initialization,Javascript SDK | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/tasklist/#tasklist,Task List | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#442c2128282b042725372126282b272f37,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#08606d646467486d656d7a6f6d696c69787c266b6765,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/email/,Email | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#7119141d1d1e3112100214131d1e121a02,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/download-data-on-a-schedule/,Download Data from the Command Line | Caseblocks Documentation,200
+https://caseblocks.com/partners/#content,Partners | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#83ebe6efefecc3e0e2f0e6e1efece0e8f0,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#51222421213e23251132302234333d3e323a227f323e3c,Email Protection | Cloudflare,200
+https://login.caseblocks.com/users/sign_in,CaseBlocks,200
+https://caseblocks.com/resources/darren-hay-joins-the-caseblocks-team/,Darren Hay joins the Caseblocks team | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-export-data-from-a-bucket/#content,How to export data from a bucket | Caseblocks Documentation,200
+https://caseblocks.com/case-studies/cyberadapt/,Cyber adAPT - Service Management Solution | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#177f727b7b785774766472757b78747c64,Email Protection | Cloudflare,200
+https://caseblocks.com/careers/#content,Careers | Caseblocks,200
+https://caseblocks.com/resources/is-black-friday-sunny-skies-for-etailers/#content,Is Black Friday all sunny skies for e-tailers? | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/teams/,Teams | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d6beb3babab996b5b7a5b3b4bab9b5bda5,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/rest-api/response-handling/,Response Handling | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b5ddd0d9d9daf5d6d4c6d0d7d9dad6dec69bd6dad8,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/calling-the-caseblocks-api-from-your-website/,Integrate to the CaseBlocks API | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#f79f929b9b98b794968492959b98949c84d994989a,Email Protection | Cloudflare,200
+https://www.caseblocks.com/,Caseblocks - Case Management System,200
+https://documentation.caseblocks.com/how-tos/how-to-add-a-user-or-team-to-a-case/#content,How to add a user or team to a case | Caseblocks Documentation,200
 https://caseblocks.com/cookie-policy/,Cookie Policy | Caseblocks,200
+https://documentation.caseblocks.com/?post_type=how&p=98,Unkown Title,404
+https://documentation.caseblocks.com/how-tos/how-to-setup-a-dependent-lookup-field/,How to setup a dependent lookup field | Caseblocks Documentation,200
+http://caseblocks.com/solutions/order-management/,Order Management System | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-add-documents/,How to add documents | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-share-a-bucket/#content,How to share a bucket | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#a3cbc6cfcfcce3c0c2d0c6c1cfccc0c8d0,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-bucket-group/#content,How to work with bucket groups | Caseblocks Documentation,200
+https://caseblocks.com/resources/caseblocks-create-disruptive-technology/#content,Caseblocks help to create disruptive technology | Caseblocks,200
+https://caseblocks.com/case-studies/,Case Studies | Caseblocks,200
+https://caseblocks.com/solutions/order-management/#content,Order Management System | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/email/#toemail-name,Email | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/document/#document,Document | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#85ede0e9e9eac5e6e4f6e0e7e9eae6eef6,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#365e535a5a597655574553545a59555d45,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#92faf7fefefdd2f1f3e1f7f0fefdf1f9e1bcf1fdff,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/team/#members,Team | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#761e131a1a1936131b1304111317121706025815191b,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/caseblocks-hits-the-headlines/#content,Caseblocks hits the headlines | Caseblocks,200
+https://caseblocks.com/resources/google-duplex-ai-software-builders/,Google Duplex Raised The Bar For Software Developers | Caseblocks,200
+https://caseblocks.com/resources/real-promotions-join-caseblocks/,Real Promotion join Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-lifecycle-function/,How to build a lifecycle function | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/authentication/,Authentication | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-add-documents/#content,How to add documents | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/users/#content,Users | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-use-task-parameters/#content,How to use task parameters | Caseblocks Documentation,200
+https://caseblocks.com/resources/case-management-can-help-small-businesses/#content,Case Management can help small businesses | Caseblocks,200
+https://caseblocks.com/resources/#content,Resources | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#422a272e2e2d0221233127202e2d212931,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#e68e838a8a89a685879583848a89858d95,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/case/#delete,Case | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/response-handling/#content,Response Handling | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#7b131e1717143b181a081e19171418100855181416,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#4028252c2c2f0023213325222c2f232b33,Email Protection | Cloudflare,200
+https://caseblocks.com/platform/,Case Management Platform | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/user/#getuserid,User | Caseblocks Documentation,200
+https://caseblocks.com/resources/the-template-and-the-case/,The Template and the Case | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case/#relatedbynamerelatedcasetypecode,Case | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/task/,Task | Caseblocks Documentation,200
+https://caseblocks.com/about/#content,About Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/using-account-level-parameters-in-lifecycle-functions/,How to use account level parameters | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#ff979a939390bf9c9e8c9a9d93909c948c,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#f8909d949497b89b998b9d9a94979b938b,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/the-template-and-the-case/#content,The Template and the Case | Caseblocks,200
+https://caseblocks.com/terms-and-conditions/#content,Terms and Conditions | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/user/,User | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b3dbd6dfdfdcf3d0d2c0d6d1dfdcd0d8c0,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/case/#save,Case | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#dfb7bab3b3b09fbab2baadb8babebbbeafabf1bcb0b2,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/rest-api/commsroom/,Commsroom | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-define-case-data/,How to define case data | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#ccemail-name,Email | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#87efe2ebebe8c7e4e6f4e2e5ebe8e4ecf4,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/create-a-custom-order-management-system/#content,Create a custom Order Management System | Caseblocks,200
+https://caseblocks.com/about/,About Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/document/#fromstringcasetypeid-caseinstance-filename-contents,Document | Caseblocks Documentation,200
+https://caseblocks.com/case-studies/#,Case Studies | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-case-from-an-email/#content,How to create a case from an email | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#sendtemplatetemplate-data,Email | Caseblocks Documentation,200
+https://caseblocks.com/resources/emergeadapt-is-now-caseblocks/,EmergeAdapt is now Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-bucket/,How to create a bucket | Caseblocks Documentation,200
+https://caseblocks.com/resources/everything-you-need-to-know-about-bpm-2-0/#content,Everything you need to know about BPM 2.0 | Caseblocks,200
+https://documentation.caseblocks.com/search/,Search | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#e38b868f8f8ca380829086818f8c808890,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/email/#send,Email | Caseblocks Documentation,200
+https://caseblocks.com/resources/how-to-fix-your-order-management-problems/#content,How to fix your order management problems | Caseblocks,200
+https://caseblocks.com/resources/caseblocks-joins-g-cloud-7/#content,Caseblocks joins G-Cloud 7 | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#a6cdc7cfcac7c8cfe6cfc8d5d6cfd4cfd2c1cac9c4c7ca88c5c9cb,Email Protection | Cloudflare,200
+https://caseblocks.com#content,Caseblocks - Case Management System,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b7dfd2dbdbd8f7d4d6c4d2d5dbd8d4dcc4,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-send-an-email-alert-from-a-task/,How to send an email alert from a task | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#dbb3beb7b7b49bb8baa8beb9b7b4b8b0a8,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#157d7079797a557674667077797a767e66,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#0b636e6767644b686a786e696764686078,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/google-api/#content,Integrate with Google API | Caseblocks Documentation,200
+https://documentation.caseblocks.com/,Caseblocks Documentation | Everything you wanted to know about Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#6008050c0c0f2003011305020c0f030b134e030f0d,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#721a171e1e1d3211130117101e1d1119015c111d1f,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/selecting-an-order-management-system/#content,7 Tips For Selecting An Order Management System | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case/#content,Case | Caseblocks Documentation,200
+https://caseblocks.com/resources/meet-the-new-caseblocks/#content,Meet the new Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/document/#content,Document | Caseblocks Documentation,200
+https://caseblocks.com/resources/improve-customer-service-case-management/,CRM Built To Evolve With Case Management Software | Caseblocks,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#483b3d3838273a3c082b293b2d2a24272b233b662b2725,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/document/#new-caseblocksdocumentattributes-caseinstance,Document | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/team/#public-methods,Team | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-bucket/#content,How to create a bucket | Caseblocks Documentation,200
+https://documentation.caseblocks.com/javascript-api/#content,Javascript SDK | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/bucket/#casespage-pagesize,Bucket | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#textdata,Email | Caseblocks Documentation,200
+https://caseblocks.com/resources/the-cloud-revolution/,The Cloud Revolution | Caseblocks,200
+https://caseblocks.com/resources/universal-apis/#content,Universal APIs | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#49212c252526092a283a2c2b25262a223a,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/adaptive-case-management-knowledge-workers/,Adaptive Case Management for Knowledge Workers | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case/#relatedrelatedcasetypecode-relationshipid,Case | Caseblocks Documentation,200
+https://caseblocks.com/resources/le-coffee-guy-take-on-europe-caseblocks/,Le Coffee Guy take on Europe with Caseblocks | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#fb939e979794bb989a889e999794989088,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#1b737e7777745b787a687e797774787068,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/the-cloud-revolution/#content,The Cloud Revolution | Caseblocks,200
+https://caseblocks.com/resources/bobby-ross-joins-the-caseblocks-team/,Bobby Ross joins the Caseblocks team | Caseblocks,200
+https://caseblocks.com/resources/is-it-time-to-claim-back-our-data/#content,Is it time to claim back our data? | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#8be3eee7e7e4cbe8eaf8eee9e7e4e8e0f8,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/user/#content,User | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/team/,Team | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/messages/#content,Messages | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#subjecttext,Email | Caseblocks Documentation,200
+https://caseblocks.com/resources/emergeadapt-is-now-caseblocks/#content,EmergeAdapt is now Caseblocks | Caseblocks,200
+https://caseblocks.com/resources/google-duplex-ai-software-builders/#content,Google Duplex Raised The Bar For Software Developers | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#6b030e0707042b0e060e190c0e0a0f0a1b1f45080406,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#bfd7dad3d3d0ffdcdeccdaddd3d0dcd4cc,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/real-promotions-join-caseblocks/#content,Real Promotion join Caseblocks | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b2dad7dededdf2d1d3c1d7d0deddd1d9c1,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#0c7f797c7c637e784c6f6d7f696e60636f677f226f6361,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/javascript-api/,Javascript SDK | Caseblocks Documentation,200
+https://documentation.caseblocks.com/help,Help | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#620a070e0e0d2201031107000e0d010911,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#640c0108080b240705170106080b070f17,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#6a020f0606052a090b190f08060509011944090507,Email Protection | Cloudflare,200
+https://caseblocks.com/solutions/claims-management/,Claims Management Software | Caseblocks,200
+https://caseblocks.com/resources/caseblocks-hits-the-headlines/,Caseblocks hits the headlines | Caseblocks,200
+https://caseblocks.com/resources/universal-apis/,Universal APIs | Caseblocks,200
+https://caseblocks.com/resources/software-development-evolving-nature/,The Evolving Nature of Software Development | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d1b9b4bdbdbe91b2b0a2b4b3bdbeb2baa2,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#1f777a7373705f7c7e6c7a7d73707c746c,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/docker-every-clouds-silver-lining/,Docker - Every clouds silver lining | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#553d3039393a153634263037393a363e26,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#cca4a9a0a0a38cafadbfa9aea0a3afa7bf,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/bucket/#getbucketid-casetypecode,Bucket | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#3f575a5353507f5c5e4c5a5d53505c544c,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#ec8489808083ac8f8d9f898e80838f879f,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#eb838e878784ab888a988e898784888098,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-case-from-an-email/,How to create a case from an email | Caseblocks Documentation,200
+https://caseblocks.com/resources/meet-the-new-caseblocks/,Meet the new Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/tasklist/,Task List | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#28404d444447684b495b4d4a44474b435b,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/creating-a-webhook/,Creating a Webhook | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#class-methods-6,Email | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-write-advanced-bucket-searches/,How to write advanced bucket queries | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/team/#content,Team | Caseblocks Documentation,200
+https://caseblocks.com/resources/is-black-friday-sunny-skies-for-etailers/,Is Black Friday all sunny skies for e-tailers? | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#a7cfc2cbcbc8e7c4c6d4c2c5cbc8c4ccd4,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/lumegents-print-order-management-makeover/#content,Lumegent's Print Order Management Makeover | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-bucket-group/,How to work with bucket groups | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#563e333a3a391635372533343a39353d25,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/user/#getall,User | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#ea828f868685aa898b998f888685898199,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/rest-api/messages/,Messages | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/bucket/#stats,Bucket | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#4c24292020230c2f2d3f292e20232f273f,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/adaptive-case-management-processes/#content,Adaptive Case Management for Complex Processes | Caseblocks,200
+https://caseblocks.com/platform/#content,Case Management Platform | Caseblocks,200
+https://documentation.caseblocks.com/help/#content,Help | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-write-an-email-template/,How to Write a HTML Template | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#bccemail-name,Email | Caseblocks Documentation,200
+https://caseblocks.com/resources/using-technology-to-drive-innovation/,Using Technology to Drive Innovation | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/team-membership/#content,Team Membership | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#bbd3ded7d7d4fbd8dac8ded9d7d4d8d0c8,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-change-your-password/#content,How to change your password | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/case/,Case | Caseblocks Documentation,200
+https://caseblocks.com/resources/understanding-case-management/#content,Understanding Case Management | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-run-a-custom-script-from-a-case-event/,How to run a custom script | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#670f020b0b082704061402050b08040c14,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/bucket/#class-methods-5,Bucket | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/calling-the-caseblocks-api-from-your-website/#content,Integrate to the CaseBlocks API | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#2b434e4747446b484a584e494744484058,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#76050306061904023615170513141a19151d055815191b,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/rest-api/commsroom/#content,Commsroom | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/document/#renamenewfilename,Document | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#c8a0ada4a4a788aba9bbadaaa4a7aba3bb,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/#content,Caseblocks Documentation | Everything you wanted to know about Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-upload-an-avatar/,How to upload an avatar | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#9bf3fef7f7f4dbf8fae8fef9f7f4f8f0e8,Email Protection | Cloudflare,200
+https://caseblocks.com/case-studies/eic/#content,EIC - Case Study of Claims Management Software | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#f49c9198989bb49795879196989b979f87,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#7018151c1c1f3013110315121c1f131b03,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#7f171a1313103f1c1e0c1a1d13101c140c,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#0f676a6363604f6c6e7c6a6d63606c647c,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/integrate-to-google-mail/,Integrate to Google Mail | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/tasklist/#gettasklistid,Task List | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#a5cdc0c9c9cae5c6c4d6c0c7c9cac6ced6,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/adaptive-case-management-processes/,Adaptive Case Management for Complex Processes | Caseblocks,200
+https://caseblocks.com/case-studies/cyberadapt/#content,Cyber adAPT - Service Management Solution | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-define-case-data/#content,How to define case data | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d9b1bcb5b5b699bab8aabcbbb5b6bab2aa,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#62111712120d10162201031107000e0d0109114c010d0f,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/tasklist/#getalltasklistids,Task List | Caseblocks Documentation,200
+https://caseblocks.com/privacy-policy/#content,Privacy Policy | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#c0a8a5acacaf80a3a1b3a5a2acafa3abb3,Email Protection | Cloudflare,200
+https://caseblocks.com/partners/become-a-partner/#content,Become a Partner with Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/#content,REST API | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#e388829a8f868a848ba380829086818f8c808890cd808c8e,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/case/#participants,Case | Caseblocks Documentation,200
+https://caseblocks.com/resources/le-coffee-guy-take-on-europe-caseblocks/#content,Le Coffee Guy take on Europe with Caseblocks | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#e78f828b8b88a784869482858b88848c94,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/improve-customer-service-case-management/#content,CRM Built To Evolve With Case Management Software | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/authentication/#content,Authentication | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#ddb5b8b1b1b29dbebcaeb8bfb1b2beb6ae,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#234b464f4f4c6340425046414f4c404850,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#ee868b828281ae8b838b9c898b8f8a8f9e9ac08d8183,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#c7b4b2b7b7a8b5b387a4a6b4a2a5aba8a4acb4e9a4a8aa,Email Protection | Cloudflare,200
+https://caseblocks.com,Caseblocks - Case Management System,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#0a797f7a7a65787e4a696b796f68666569617924696567,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/tasklist/#tasks,Task List | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#90f8f5fcfcffd0f3f1e3f5f2fcfff3fbe3,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/document/#class-methods-2,Document | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#472f222b2b280724263422252b28242c34,Email Protection | Cloudflare,200
+https://caseblocks.com/case-studies/#content,Case Studies | Caseblocks,200
+https://login.caseblocks.com/users/password/new,CaseBlocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#08606d646467486b697b6d6a64676b637b,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-upload-an-avatar/#content,How to upload an avatar | Caseblocks Documentation,200
+https://caseblocks.com/resources/lumegents-print-order-management-makeover/,Lumegent's Print Order Management Makeover | Caseblocks,200
+https://documentation.caseblocks.com/javascript-api/#installation,Javascript SDK | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/case/#class-methods-1,Case | Caseblocks Documentation,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#f98a8c8989968b8db99a988a9c9b95969a928ad79a9694,Email Protection | Cloudflare,200
+https://caseblocks.com/cookie-policy/#content,Cookie Policy | Caseblocks,200
+https://caseblocks.com/careers/developer/,Developer | Caseblocks,200
+https://caseblocks.com/resources/adaptive-case-management-explained/#content,Adaptive Case Management Explained | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/team/#instance-methods-2,Team | Caseblocks Documentation,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#57242227273825231734362432353b38343c247934383a,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/caseblocks-custom-solution-for-cyberadapt/,Caseblocks build custom solution for CyberadAPT | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#adc5c8c1c1c2edceccdec8cfc1c2cec6de,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/case-search/,Case.Search | Caseblocks Documentation,200
+https://caseblocks.com/careers/developer/#content,Developer | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/email/#htmldata,Email | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#dfb7bab3b3b09fbcbeacbabdb3b0bcb4ac,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#7c14191010133c1f1d0f191e10131f170f,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/document/,Document | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/,Integration | Caseblocks Documentation,200
+https://caseblocks.com/book-a-demo/#content,Book a Demo | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#6c04090000032c0f0d1f090e00030f071f,Email Protection | Cloudflare,200
+https://caseblocks.com/get-in-touch,Get in Touch | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-export-data-from-a-bucket/,How to export data from a bucket | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d3bbb6bfbfbc93b0b2a0b6b1bfbcb0b8a0,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-send-an-email-alert-from-a-task/#content,How to send an email alert from a task | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-create-custom-views/#content,How to create custom views | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/integrate-to-google-mail/#content,Integrate to Google Mail | Caseblocks Documentation,200
+https://caseblocks.com/platform,Case Management Platform | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/users/,Users | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/conversations/,Conversations | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/bucket/#buckets,Bucket | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/integrate-with-a-rest-api/,Inegrate with a REST API | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#355d5059595a755654465057595a565e46,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#83e8e2eaefe2edeac3eaedf0f3eaf1eaf7e4efece1e2efade0ecee,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/docker-every-clouds-silver-lining/#content,Docker - Every clouds silver lining | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-reusable-script/,How to create a reusable script | Caseblocks Documentation,200
+https://caseblocks.com/solutions/#content,Case Management Solutions | Caseblocks,200
+https://caseblocks.com/resources,Resources | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case/#getcasetypecode-caseid,Case | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-add-a-user-or-team-to-a-case/,How to add a user or team to a case | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/,REST API | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d0b8b5bcbcbf90b3b1a3b5b2bcbfb3bba3,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/email/#email,Email | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#f79f929b9b98b794968492959b98949c84,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/caseblocks-create-disruptive-technology/,Caseblocks help to create disruptive technology | Caseblocks,200
+https://caseblocks.com/resources/11-things-to-consider-buying-bpm-software/#content,11 things to consider when buying BPM software | Caseblocks,200
+https://caseblocks.com/careers/,Careers | Caseblocks,200
+https://caseblocks.com/book-a-demo/,Book a Demo | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b1d9d4dddddef1d2d0c2d4d3ddded2dac2,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-change-your-password/,How to change your password | Caseblocks Documentation,200
+https://caseblocks.com/resources/darren-hay-joins-the-caseblocks-team/#content,Darren Hay joins the Caseblocks team | Caseblocks,200
+https://caseblocks.com/resources/adaptive-case-management/#content,Adaptive Case Management - Making the Switch | Caseblocks,200
+https://caseblocks.com/about/resources,Resources | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-setup-a-dependent-lookup-field/#content,How to setup a dependent lookup field | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/email/#bodydata,Email | Caseblocks Documentation,200
+https://caseblocks.com/#content,Caseblocks - Case Management System,200
+https://documentation.caseblocks.com/internal-functions/casetype/,Case Type | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#8ce4e9e0e0e3cce9e1e9feebe9ede8edfcf8a2efe3e1,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/task/#getalltaskids,Task | Caseblocks Documentation,200
+https://caseblocks.com/resources/caseblocks-custom-solution-for-cyberadapt/#content,Caseblocks build custom solution for CyberadAPT | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-share-a-bucket/,How to share a bucket | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/document/#constructor-1,Document | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/#content,How To's | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#8fe7eae3e3e0cfeceefceaede3e0ece4fc,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/task/#class-methods-4,Task | Caseblocks Documentation,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#56252326263924221635372533343a39353d257835393b,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/google-api/,Integrate with Google API | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/download-data-on-a-schedule/#content,Download Data from the Command Line | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-import-data-via-a-csv-file/,How to import data via a CSV file | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/user/#user,User | Caseblocks Documentation,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#592a2c2929362b2d193a382a3c3b35363a322a773a3634,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/everything-you-need-to-know-about-bpm-2-0/,Everything you need to know about BPM 2.0 | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#2048454c4c4f60454d4552474541444150540e434f4d,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#462e232a2a290625273523242a29252d35,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#d5bdb0b9b9ba95b6b4a6b0b7b9bab6bea6,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#4a222f2626250a292b392f282625292139,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/tasklist/#content,Task List | Caseblocks Documentation,200
+https://caseblocks.com/resources/adaptive-case-management/,Adaptive Case Management - Making the Switch | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-lifecycle-function/#content,How to build a lifecycle function | Caseblocks Documentation,200
+https://documentation.caseblocks.com/how-tos/how-to-import-or-export-a-caseblocks-configuration/,How to move configuration | Caseblocks Documentation,200
+https://caseblocks.com/resources/#,Resources | Caseblocks,200
+https://caseblocks.com/resources/microservices-caseblocks/,MicroServices for Agile Businesses by Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-use-task-parameters/,How to use task parameters | Caseblocks Documentation,200
+https://documentation.caseblocks.com/search/#content,Search | Caseblocks Documentation,200
+https://documentation.caseblocks.com/integration/creating-a-webhook/#content,Creating a Webhook | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#39515c555556795a584a5c5b55565a524a,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/casetype/#content,Case Type | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#deb6bbb2b2b19ebdbfadbbbcb2b1bdb5adf0bdb1b3,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#6109040d0d0e2102001204030d0e020a12,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#076f626b6b684764667462656b68646c74,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#ed8588818182ad8e8c9e888f81828e869e,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/cdn-cgi/l/email-protection#71020401011e03053112100214131d1e121a025f121e1c,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/microservices-caseblocks/#content,MicroServices for Agile Businesses by Caseblocks | Caseblocks,200
+https://caseblocks.com/resources/caseblocks-joins-g-cloud-7/,Caseblocks joins G-Cloud 7 | Caseblocks,200
+https://caseblocks.com/case-studies/eic/,EIC - Case Study of Claims Management Software | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#543c3138383b143735273136383b373f27,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/understanding-case-management/,Understanding Case Management | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/using-account-level-parameters-in-lifecycle-functions/#content,How to use account level parameters | Caseblocks Documentation,200
+https://caseblocks.com/partners/become-a-partner/,Become a Partner with Caseblocks | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-create-custom-views/,How to create custom views | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/team/#getteamid,Team | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#056d6069696a456664766067696a666e76,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/e-commerce-in-the-uk-infographic/,E-Commerce in the UK Infographic | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-import-data-via-a-csv-file/#content,How to import data via a CSV file | Caseblocks Documentation,200
+https://caseblocks.com/resources/,Resources | Caseblocks,200
+https://caseblocks.com/privacy-policy/,Privacy Policy | Caseblocks,200
+https://documentation.caseblocks.com/how-tos/how-to-write-advanced-bucket-searches/#content,How to write advanced bucket queries | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#244c4148484b644745574146484b474f57,Email Protection | Cloudflare,200
+https://caseblocks.com/case-studies/national-tyres-autocare/,Service Management Software - National Tyres | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#c9a1aca5a5a689aaa8baacaba5a6aaa2ba,Email Protection | Cloudflare,200
+http://caseblocks.com/case-studies/national-tyres-autocare/,Service Management Software - National Tyres | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/email/#fromemail-name,Email | Caseblocks Documentation,200
+https://caseblocks.com/resources/bobby-ross-joins-the-caseblocks-team/#content,Bobby Ross joins the Caseblocks team | Caseblocks,200
+https://documentation.caseblocks.com/internal-functions/case-search/#content,Case.Search | Caseblocks Documentation,200
+https://documentation.caseblocks.com/rest-api/teams/#content,Teams | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#91f9f4fdfdfed1f2f0e2f4f3fdfef2fae2,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/internal-functions/case/#case,Case | Caseblocks Documentation,200
+https://caseblocks.com/resources/adaptive-case-management-explained/,Adaptive Case Management Explained | Caseblocks,200
+https://caseblocks.com/resources/how-to-fix-your-order-management-problems/,How to fix your order management problems | Caseblocks,200
+https://documentation.caseblocks.com/rest-api/conversations/#content,Conversations | Caseblocks Documentation,200
+https://caseblocks.com/case-studies/national-tyres-autocare/#content,Service Management Software - National Tyres | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#29414c454546694a485a4c4b45464a425a,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/help/,Help | Caseblocks Documentation,200
+https://documentation.caseblocks.com/internal-functions/document/#instance-methods-1,Document | Caseblocks Documentation,200
+https://caseblocks.com/resources/using-technology-to-drive-innovation/#content,Using Technology to Drive Innovation | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#c4aca1a8a8ab84a7a5b7a1a6a8aba7afb7eaa7aba9,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/how-tos/how-to-create-a-reusable-script/#content,How to create a reusable script | Caseblocks Documentation,200
+https://caseblocks.com/cdn-cgi/l/email-protection#b1d9d4dddddef1d2d0c2d4d3ddded2dac29fd2dedc,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/integrate-to-outlook-365/#content,Integrate to Outlook 365 | Caseblocks Documentation,200
+https://caseblocks.com/solutions/,Case Management Solutions | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#cba3aea7a7a48ba8aab8aea9a7a4a8a0b8,Email Protection | Cloudflare,200
+https://caseblocks.com/resources/adaptive-case-management-knowledge-workers/#content,Adaptive Case Management for Knowledge Workers | Caseblocks,200
+https://caseblocks.com/cdn-cgi/l/email-protection#cfa7aaa3a3a08facaebcaaada3a0aca4bc,Email Protection | Cloudflare,200
+https://caseblocks.com/cdn-cgi/l/email-protection#5d35383131321d3e3c2e383f31323e362e,Email Protection | Cloudflare,200
+https://documentation.caseblocks.com/integration/integrate-with-a-rest-api/#content,Inegrate with a REST API | Caseblocks Documentation,200
+https://caseblocks.com/resources/is-it-time-to-claim-back-our-data/,Is it time to claim back our data? | Caseblocks,200
